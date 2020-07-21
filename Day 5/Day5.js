@@ -77,7 +77,7 @@ class Admin extends Moderator {
     }
 }
 
-let user1 = new User('Raj',20,'r@gmail.com');
+let user1 = new User('Pratik',20,'ps@gmail.com');
 console.log(user1.login());
 let mod1 = new Moderator('LetsUpgrade Moderator',2,'lum@gmail.com');
 // console.log(mod1);
